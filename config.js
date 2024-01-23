@@ -2,7 +2,7 @@ const config = {
   challenge: false,
   users: {
     // username: 'password', you can add multiple users.
-    interstellar: 'password',
+    Nuggets: 'ikWmds6x$',
   }
 }
 export default config
