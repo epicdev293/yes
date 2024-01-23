@@ -6,6 +6,7 @@ const config = {
     fbi: 'DOGS123_',
     anything: 'lmao',
     REDACTED: 'RocketShip1',
+    User: 'User',
   }
 }
 export default config
