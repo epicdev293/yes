@@ -10,6 +10,7 @@ const config = {
     coolbloxplayer1: 'Lovesjana',
     150004151: '017976',
     Fraxer: '081253432',
+    Dustin: '12345',
   }
 }
 export default config
