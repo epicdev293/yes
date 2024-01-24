@@ -7,6 +7,7 @@ const config = {
     anything: 'lmao',
     REDACTED: 'RocketShip1',
     User: 'User',
+    coolbloxplayer1: 'Lovesjana',
   }
 }
 export default config
