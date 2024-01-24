@@ -12,6 +12,7 @@ const config = {
     Fraxer: '081253432',
     Dustin: '12345',
     stm2392: '32.1344.2214.221',
+    hellfire: '655902009',
   }
 }
 export default config
