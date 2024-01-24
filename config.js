@@ -11,6 +11,7 @@ const config = {
     150004151: '017976',
     Fraxer: '081253432',
     Dustin: '12345',
+    stm2392: '32.1344.2214.221',
   }
 }
 export default config
