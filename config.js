@@ -15,6 +15,8 @@ const config = {
     hellfire: '655902009',
     pico: 'pico',
     elkyn08: '339941303',
+    Ayan: 'uselicHalNur',
+    Fitzcharles: 'imEsPaLCoRAN',
   }
 }
 export default config
