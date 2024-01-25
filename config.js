@@ -14,6 +14,7 @@ const config = {
     stm2392: '32.1344.2214.221',
     hellfire: '655902009',
     pico: 'pico',
+    elkyn08: '339941303',
   }
 }
 export default config
