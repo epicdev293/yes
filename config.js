@@ -17,6 +17,7 @@ const config = {
     elkyn08: '339941303',
     Ayan: 'uselicHalNur',
     Fitzcharles: 'imEsPaLCoRAN',
+    Igor: 'Igor123',
   }
 }
 export default config
