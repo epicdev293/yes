@@ -1723,6 +1723,12 @@ document.addEventListener('DOMContentLoaded', () => {
       image: '/assets/media/icons/venge.png',
       categories: ['all'],
     },
+    {
+      name: 'Eaglercraftclients',
+      link: 'https://eaglercrack.vercel.app/',
+      image: '/assets/media/icons/eaglercrack.png',
+      categories: ['all'],
+    },
   ]
 
   function saveToLocal(path) {
